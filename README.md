@@ -2,7 +2,9 @@
 Hi, I'm SoulEz 👋
 
 🔭 I’m currently working on Zulu Development
+
 🌱 I’m currently a Website and App Developer (2 Years Experience).
+
 📫 Contact me on discord: Fckdns#6037
 
 # Estadisticas
